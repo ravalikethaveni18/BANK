@@ -9,16 +9,19 @@
 - checking Balance
 - withdrawal
 - account to account transfer
- ##languages
-->python
-->html,css
-->django
-->sqlite3
-##requirements
-->4GB ram
-->256 ROM
-->python-3.08
-->Django==5.1.5
+  
+ ## Languages
+- python
+- html,css
+- django
+- sqlite
+  
+## Requirements
+- 4GB ram
+- 256 ROM
+- Python-3.08
+- django==5.1.5
+
 
   
 # TECHNOLOGIES USED 📌
